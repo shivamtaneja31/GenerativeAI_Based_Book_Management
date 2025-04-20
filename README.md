@@ -185,10 +185,10 @@ The system is designed to be deployed on AWS infrastructure:
 - Implement recommendation caching and batch processing
 - Add support for book cover images and content storage
 
-## Contributors
+### Contact Information
 
-- [Your Name/Team]
+For technical inquiries:
+- Lead Developer: Shivam Taneja
 
-## License
 
-[Specify License]
+
